@@ -120,7 +120,7 @@ img {
 }
 
 .btn-green::before {
-    content: url(../images/icon-cart.svg);
+    content: url(images/icon-cart.svg);
 }
 
 .btn-green:hover {
